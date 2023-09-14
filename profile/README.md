@@ -1,4 +1,4 @@
-# Welcome to [CyberScot's GitHub Organization](https://github.com/CyberScot) 👋
+# Welcome to [CyberScot's GitHub Organization](https://github.com/cyber-scot) 👋
 
 At CyberScot, we are deeply committed to delivering not just technological solutions, but real business benefits. Our projects are rooted in our core belief that technology should serve tangible business needs and drive positive transformation.
 
