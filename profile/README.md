@@ -35,6 +35,7 @@ At CyberScot, we are deeply committed to delivering not just technological solut
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
 [![Sonatype Nexus](https://img.shields.io/badge/Sonatype%20Nexus-0E8A16?style=for-the-badge&logo=sonatype&logoColor=white)](https://www.sonatype.com/nexus-repository-oss)
+[![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/)
 
 ## 🚀 **Our Services**
 
